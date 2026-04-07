@@ -1,7 +1,12 @@
 aid: caleres
-url: https://raw.githubusercontent.com/api-evangelist/caleres/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/caleres/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.caleres.com
+description: >-
+  Caleres is a global footwear company with a portfolio of consumer-driven brands
+  and retail concepts, including the Famous Footwear retail chain and brands such
+  as Dr. Scholl's, Naturalizer, and Sam Edelman.
