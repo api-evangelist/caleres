@@ -25,6 +25,8 @@ description: >-
   channels.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/caleres-domain-security.yml
   - type: Website
     url: https://www.caleres.com
   - type: Brands
