@@ -1,7 +1,9 @@
 ---
 title: Caleres details global footwear business and risks
 url: https://www.stocktitan.net/sec-filings/CAL/10-k-caleres-inc-files-annual-report-c5f2aed40ed8.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Caleres" press release artificial intelligence'
 position: 5
 source: serpapi-google
